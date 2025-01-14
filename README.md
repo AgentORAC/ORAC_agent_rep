@@ -19,7 +19,7 @@ To run ORAC locally:
 
 1. **Clone the Repository**:  
     ```bash  
-    git clone https://github.com//orac-ai-agent.git  
+    git clone (https://github.com/AgentORAC/ORAC_agent_rep)
     ```  
 
 2. **Install Dependencies**:  
@@ -51,7 +51,7 @@ We welcome contributions to improve ORAC AI Agent. To contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
 
 ## Contact  
-For questions or support, contact us at [email@example.com].  
+For questions or support, contact us at (https://discord.gg/gyv2H4Hy).  
 
 ---  
 Let’s build the future of personalized success together with ORAC! 🚀
